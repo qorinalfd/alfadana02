@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BIODATA</title>
+</head>
+<body>
+<h1 align="center">BIODATA</h1>
+<center>
+<h2>Qorina Alfada Nur Astuti</h2>
+<img src"file:///udesri/56.jpg" width=200 height=200/>
+</center>
+
+</body>
+</html>
+
+<label>Name:</label>
+<input type="text" name="name" placeholder="Qorina Alfada Nur Astuti"/>
+</p>
+<p>
+<label>Alamat:</label>
+<input type="text" name="name" placeholder="Desa Godong RT03/RW03 Kecamatan Godong, Kabupaten Grobogan, Jawa Tengah"/>
+</p>
+<p>
+<label>Email:</label>
+<input type="text" name="name" placeholder="qorinaalfada@gmail.com"/>
+</p>
+<p>
+<label>HP:</label>
+<input type="text" name="name" placeholder="085727432049"/>
+</p>
+<p>
+<label>Agama:</label>
+<select name="agama">
+<option>Islam</option>
+<option>Protestan</option>
+<option>Katolik</option>
+<option>Hindu</option>
+<option>Buddha</option>
+<option>Konghucu</option>
+</select>
+</tr>
+<tr>
+<h1>Hobi:</h1>
+<li>-Menonton Film</li>
+<li>-Bersepeda</li>
+<li>-Membaca Novel<li>
+<tr>
+</tr>
+<label>Kuliah:</label>
+<input type="text" name="name" placeholder="Semester 3"/>
+</p>
+<p>
+<label>Jurusan:<label>
+<input type="text" name="name" placeholder="Manajemen Pendidikan Islam"/>
+</p>
+<p>
+<label>Kampus:<label>
+<input type="text" name="name" placeholder="UIN Walisongo Semarang"/>
+</p>
+<p>
+<label>Data Diri:</label>
+<textarea>Grobogan, 4 Februari 2002
+Jenis Kelamin: Perempuan
+Status: Mahasiswa
+NIM: 2003036039
+</textarea>
+
+</form>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+<table>
+<table border="1">
+<tr>
+	<th>Nama Sekolah</th>
+	<th>Tahun Lulus</th>
+</tr>
+<tr>
+	<td>SD Negeri 4 Godong</td>
+	<td>2014</td>
+</tr>
+<tr>
+	<td>SMP Negeri 1 Godong</td>
+	<td>2017</td>
+</tr>
+<tr>
+	<td>MAN 1 Grobogan</td>
+	<td>2020</td>
+</tr>
+</table>
+
+</body>
+</html>
+	
